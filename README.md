@@ -97,6 +97,7 @@ This experiment demonstrates how the removal of an important hub can affect over
 | `8. node_metrics.csv` | Node-level network metrics |
 | `Project_Report_v2.docx` | Detailed project report |
 | `7. Hidden_Backbone_Indian_Railways.pptx` | Project presentation |
+| [visualizations/](visualizations/) | Five Gephi network visualization files |
 
 ## 🎯 Conclusion
 
